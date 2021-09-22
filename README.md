@@ -2,6 +2,7 @@
 
 ## :computer: Projeto
 Aplicação web para simular um sistema de listagem de vendedores e seus departamentos, onde é posivel consultar, adicionar, atualizar e excluir os registros dessas vendas usando ASP.NET Core MVC, código do projeto foi baseado no curso [C# COMPLETO 2020 Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/).
+Apenas faltando a finalização da implementação da Busca Agrupada, com todo o restante funcional.
 
 ## :wrench: Recursos Utilizados
 
